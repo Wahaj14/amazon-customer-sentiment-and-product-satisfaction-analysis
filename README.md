@@ -66,7 +66,6 @@ python Amazon Customer Sentiment Analysis.py
 
 3 View Results
 
-Check the output folder for visualizations and sentiment reports.
 
 # Future Improvements
 
