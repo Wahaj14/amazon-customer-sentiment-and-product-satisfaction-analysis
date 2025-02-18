@@ -41,12 +41,12 @@ Predictive modeling helped businesses adjust pricing, packaging, and quality str
 # Project Structure
 
  Amazon-Sentiment-Analysis
-   data/               # Dataset files
-  notebooks/          # Jupyter Notebooks for analysis
-   models/             # Trained ML/DL models
-  requirements.txt    # Dependencies
-  README.md           # Project documentation
-  sentiment_analysis.py  # Main script
+  • data               # Dataset files
+  • notebooks          # Jupyter Notebooks for analysis
+  • models             # Trained ML/DL models
+  • requirements.txt    # Dependencies
+  • README.md           # Project documentation
+  • sentiment_analysis.py  # Main script
 
 # Getting Started
 
