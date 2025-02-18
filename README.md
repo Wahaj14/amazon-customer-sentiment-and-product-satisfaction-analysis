@@ -1,10 +1,10 @@
-📌 Customer Sentiment and Product Satisfaction Analysis on Amazon
+# Customer Sentiment and Product Satisfaction Analysis on Amazon
 
-📖 Project Overview
+# Project Overview
 
 This project analyzes customer sentiment in Amazon fine food reviews using Natural Language Processing (NLP) and Machine Learning (ML) techniques. The goal is to classify sentiment, extract aspect-based insights (quality, price, packaging), track sentiment trends over time, and build predictive models for forecasting future customer opinions.
 
-🚀 Key Features
+# Key Features
 
 Sentiment Classification: Uses BERT, LSTM, SVM, Random Forest models to classify reviews as positive, neutral, or negative.
 
@@ -16,9 +16,9 @@ Predictive Modeling: Utilizes LSTM and ARIMA models to forecast future sentiment
 
 Data Visualization: Uses Matplotlib & Seaborn to generate insightful graphs for sentiment trends.
 
-🛠️ Tech Stack
+# Tech Stack
 
-Programming Language: Python 🐍
+Programming Language: Python 
 
 Libraries & Frameworks: TensorFlow, Scikit-Learn, Pandas, NLTK, spaCy, Matplotlib, Seaborn
 
@@ -28,7 +28,7 @@ NLP Techniques: Tokenization, Lemmatization, Stopword Removal, Dependency Parsin
 
 Predictive Modeling: LSTM, ARIMA
 
-📊 Results & Impact
+# Results & Impact
 
 Achieved 91.7% accuracy with BERT, outperforming traditional ML models.
 
@@ -38,31 +38,31 @@ Temporal analysis revealed spikes in negative reviews during holidays due to del
 
 Predictive modeling helped businesses adjust pricing, packaging, and quality strategies proactively.
 
-📂 Project Structure
+# Project Structure
 
-📦 Amazon-Sentiment-Analysis
- ┣ 📂 data/               # Dataset files
- ┣ 📂 notebooks/          # Jupyter Notebooks for analysis
- ┣ 📂 models/             # Trained ML/DL models
- ┣ 📜 requirements.txt    # Dependencies
- ┣ 📜 README.md           # Project documentation
- ┣ 📜 sentiment_analysis.py  # Main script
+ Amazon-Sentiment-Analysis
+   data/               # Dataset files
+  notebooks/          # Jupyter Notebooks for analysis
+   models/             # Trained ML/DL models
+  requirements.txt    # Dependencies
+  README.md           # Project documentation
+  sentiment_analysis.py  # Main script
 
-🏁 Getting Started
+# Getting Started
 
-1️⃣ Install Dependencies
+1 Install Dependencies
 
 pip install -r requirements.txt
 
-2️⃣ Run Sentiment Analysis
+2 Run Sentiment Analysis
 
 python sentiment_analysis.py
 
-3️⃣ View Results
+3 View Results
 
 Check the output folder for visualizations and sentiment reports.
 
-📌 Future Improvements
+# Future Improvements
 
 Enhance aspect-based sentiment analysis using more advanced transformers.
 
@@ -70,6 +70,6 @@ Expand dataset to include more product categories.
 
 Deploy as a real-time sentiment analysis dashboard.
 
-📜 License
+# License
 
 This project is open-source and available under the MIT License.
