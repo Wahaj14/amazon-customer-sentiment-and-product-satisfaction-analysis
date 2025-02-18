@@ -52,17 +52,17 @@ Predictive modeling helped businesses adjust pricing, packaging, and quality str
   
   • README.md           # Project documentation
   
-  • amazo_customer_sentiment_analysis.py  # Main script
+  • Amazon Customer Sentiment Analysis.py  # Main script
 
 # Getting Started
 
 1 Install Dependencies
 
-pip install -r requirements.txt
+pip install -r requirements
 
 2 Run Sentiment Analysis
 
-python amazo_customer_sentiment_analysis.py
+python Amazon Customer Sentiment Analysis.py
 
 3 View Results
 
