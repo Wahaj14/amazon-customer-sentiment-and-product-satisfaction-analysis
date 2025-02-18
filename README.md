@@ -48,11 +48,11 @@ Predictive modeling helped businesses adjust pricing, packaging, and quality str
   
   • models             # Trained ML/DL models
   
-  • requirements.txt    # Dependencies
+  • requirements    # Dependencies
   
   • README.md           # Project documentation
   
-  • sentiment_analysis.py  # Main script
+  • amazo_customer_sentiment_analysis.py  # Main script
 
 # Getting Started
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 2 Run Sentiment Analysis
 
-python sentiment_analysis.py
+python amazo_customer_sentiment_analysis.py
 
 3 View Results
 
