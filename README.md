@@ -6,13 +6,13 @@ This project analyzes customer sentiment in Amazon fine food reviews using Natur
 
 # Key Features
 
-Sentiment Classification: Uses BERT, LSTM, SVM, Random Forest models to classify reviews as positive, neutral, or negative.
+Sentiment Classification: Uses BERT, VADER, Naive Bayes, SVM, Random Forest and LSTM models to classify reviews as positive, neutral, or negative.
 
 Aspect-Based Sentiment Analysis (ABSA): Extracts insights on quality, price, and packaging from customer feedback.
 
 Temporal Sentiment Analysis: Tracks fluctuations in sentiment over time to detect seasonal trends.
 
-Predictive Modeling: Utilizes LSTM and ARIMA models to forecast future sentiment trends.
+Predictive Modeling: Utilizes LSTM model to forecast future sentiment trends.
 
 Data Visualization: Uses Matplotlib & Seaborn to generate insightful graphs for sentiment trends.
 
@@ -26,13 +26,13 @@ Machine Learning Models: Naïve Bayes, SVM, Random Forest, LSTM, CNN, BERT
 
 NLP Techniques: Tokenization, Lemmatization, Stopword Removal, Dependency Parsing
 
-Predictive Modeling: LSTM, ARIMA
+Predictive Modeling: LSTM
 
 # Results & Impact
 
-Achieved 91.7% accuracy with BERT, outperforming traditional ML models.
+Achieved 80% accuracy with BERT, outperforming traditional ML models.
 
-Quality had the highest positive sentiment (85%), while price was the most polarizing factor (55% positive, 45% negative).
+Quality had the highest negative sentiment (70%), while price was the most polarizing factor (55% positive, 45% negative).
 
 Temporal analysis revealed spikes in negative reviews during holidays due to delivery delays.
 
