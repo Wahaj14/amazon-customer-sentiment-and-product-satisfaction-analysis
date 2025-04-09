@@ -22,7 +22,7 @@ Programming Language: Python
 
 Libraries & Frameworks: TensorFlow, Scikit-Learn, Pandas, NLTK, spaCy, Matplotlib, Seaborn
 
-Machine Learning Models: Naïve Bayes, SVM, Random Forest, LSTM, CNN, BERT
+Machine Learning Models: Naïve Bayes, SVM, Random Forest, LSTM,  BERT
 
 NLP Techniques: Tokenization, Lemmatization, Stopword Removal, Dependency Parsing
 
